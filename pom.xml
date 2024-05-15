@@ -55,7 +55,7 @@
         <repository>
             <id>github</id>
             <name>Github Package Center</name>
-            <url>https://maven.pkg.github.com/IbrahimSengun63/turkcell-pair1-crm-core</url>
+            <url>https://maven.pkg.github.com/IbrahimSengun63/turkcel-pair1-crm-core</url>
         </repository>
     </distributionManagement>
 
