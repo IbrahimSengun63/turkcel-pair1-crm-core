@@ -54,8 +54,8 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>Github turkcell pair 1 core package</name>
-            <url>https://maven.pkg.github.com/turkcellpair1/turkcell-pair1-crm-core</url>
+            <name>Github Package Center</name>
+            <url>https://maven.pkg.github.com/IbrahimSengun63/turkcell-pair1-crm-core</url>
         </repository>
     </distributionManagement>
 
